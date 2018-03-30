@@ -1,0 +1,3 @@
+-BrowserRouter
+-Route
+-life cycle methods
